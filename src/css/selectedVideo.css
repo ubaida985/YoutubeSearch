@@ -1,0 +1,9 @@
+.selectedVideo {
+    grid-column: 1/3;
+    grid-row: 1/3;
+}
+
+.selectedVideo iframe {
+    width: 100%;
+    height: 70vh;
+}
